@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-title{
+    color:rgb(127, 161, 255);
+    text-align: center;
+    color: #FFF;
+    margin-bottom: 32px;
+}
+nav , h4{
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;   
+}
+nav , h1{
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+header{
+    background-image: url('../images/Banner\ Image.png');
+width: 1320px;
+height: 600px;
+border-radius: 16px;
+margin: 0 auto;
+}
+#categories{
+ 
+    margin-top: 120px;
+    font-family: Inter;
+    text-align: center;
+}
+.container h1 {
+    margin-bottom: 20px;
+            color: #F00;
+font-size: 88px;
+font-weight: 700;
+}
+.container h5{
+    color:rgb(8, 138, 58);
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 30px;
+}
+.banner{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+text-align: center;
+margin: 120px auto;
+
+}
+.banner h3{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-top: 190px;
+}
+.banner p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+margin-top: 25px;
+}
+button{
+    font-size: 50px;
+    margin-top: 35px;
+}
+.info{
+    width: 800px;
+    height: 350px;
+margin: 0 auto;
+text-align: center;
+background-color: rgb(243, 239, 241);
+padding: 100px 300px 200px;
+
+}
+.info h2{
+    margin-top: 40px;
+    color:#F00;
+font-family: Inter;
+font-size: 45px;
+font-weight: 800;
+text-transform: capitalize;
+}
+.info-h{
+    font-style: normal;
+    color: black;
+}
