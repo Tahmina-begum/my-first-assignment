@@ -122,11 +122,21 @@ background: #FFF;
 }
 .portfolio{
     text-align: center;
-    color:rgb(6, 3, 24);
+    color:rgb(84, 84, 85);
     font-size: larger;
-    width: 800px;
-    height: 335px;
+    width: 1400px;
+    height: 1065px;
+    padding: 10px;
+    vertical-align: middle;
     margin: 140px auto;
+    border-radius: 16px;
+    background-color:#FFF;
+}
+.portfolio h2{
+    color: black;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 .portfolio-img{
     display: flex;
@@ -137,4 +147,15 @@ background: #FFF;
 .portfolio-img-two{
     display: flex;
     justify-content: space-around;
+}
+.subscribe{
+    margin: 160px auto;
+    width: 1320px;
+    height: 516px;
+    background-color: bisque;
+    text-align: center;
+    justify-content: space-around;
+}
+.subscribe #email{
+    font-weight: 800;
 }
