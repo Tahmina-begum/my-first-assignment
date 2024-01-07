@@ -73,6 +73,9 @@ button{
     font-size: 50px;
     margin-top: 35px;
 }
+button:hover{
+    color: rgb(0, 255, 76);
+}
 .info{
     width: 800px;
     height: 350px;
@@ -93,4 +96,27 @@ text-transform: capitalize;
 .info-h{
     font-style: normal;
     color: black;
+}
+
+.offer{
+    display: flex;
+    text-align: center;
+    margin: 120px auto;
+    width: 800px;
+height: 400px;
+background: #FFF;
+}
+.offer img{
+    justify-content: space-around;
+
+}
+.offer-info{
+    justify-content: space-between;
+    margin-right: 40px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-bottom: 30px;
+    color: brown;}
+.offer-year{
+    margin-left: 60px;
+    margin-bottom: 50pxpx;
 }
